@@ -12,11 +12,13 @@ FROM data_detective_sales_training;
 SELECT COUNT(DISTINCT Product) AS Count_Products
 FROM data_detective_sales_training;
 
-SELECT Sales_Channel, COUNT(*) AS Count_Sales_Channel
+SELECT Sales_Channel,
+COUNT(*) AS Count_Sales_Channel
 FROM data_detective_sales_training
 GROUP BY Sales_Channel;
 
-SELECT customer_type, COUNT(*) AS Customer_Count
+SELECT customer_type,
+COUNT(*) AS Customer_Count
 FROM data_detective_sales_training
 GROUP BY customer_type;
 
