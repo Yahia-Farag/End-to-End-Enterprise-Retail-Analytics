@@ -45,38 +45,38 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 As part of the analysis, the retail dataset was thoroughly explored using SQL and analytical frameworks to answer critical business questions:
 
 ### Part 1: Understand the Data
-* **Total Orders:** 1,500 Orders
-* **Branches:** 5 Branches (*Cairo, Alexandria, Mansoura, Tanta, Ismailia*)
-* **Product Categories:** 4 Categories
-* **Total Products:** 8 Products
-* **Sales Channels:** Store (645), Website (550), Phone (305)
-* **Customer Types:** New (651), Returning (640), Corporate (209)
+- **Total Orders:** 1,500 Orders
+- **Branches:** 5 Branches (*Cairo, Alexandria, Mansoura, Tanta, Ismailia*)
+- **Product Categories:** 4 Categories
+- **Total Products:** 8 Products
+- **Sales Channels:** Store (645), Website (550), Phone (305)
+- **Customer Types:** New (651), Returning (640), Corporate (209)
 
 ### Part 2: Sales Performance
-* **Total Net Revenue:** 17,334,001.34
-* **Total Profit:** 2,717,501.32
-* **Top Branch (Net Revenue & Profit):** Cairo
-* **Top Product (Net Revenue & Profit):** Laptop
-* **Top Category:** Computers
-* **Top Salesperson:** Salesperson_04
+- **Total Net Revenue:** 17,334,001.34
+- **Total Profit:** 2,717,501.32
+- **Top Branch (Net Revenue & Profit):** Cairo
+- **Top Product (Net Revenue & Profit):** Laptop
+- **Top Category:** Computers
+- **Top Salesperson:** Salesperson_04
 
 ### Part 3: Discounts & Profitability
-* **Average Discount Percentage:** 9.74%
-* **Product with Highest Average Discount:** Headset
-* **Orders with >15% Discount:** 183 Orders
-* **Branch with Highest Average Discount:** Cairo
-* **Product with Lowest Profit Margin:** Laptop
+- **Average Discount Percentage:** 9.74%
+- **Product with Highest Average Discount:** Headset
+- **Orders with >15% Discount:** 183 Orders
+- **Branch with Highest Average Discount:** Cairo
+- **Product with Lowest Profit Margin:** Laptop
 
 ### Part 4: Customers & Sales Channels
-* **Top Sales Channel (Revenue & Profit):** Store
-* **Customer Comparison:** Returning Customers generate more revenue (7,807,735) compared to New Customers (7,591,302).
-* **Branch with Highest Returning Customer Pct:** Alexandria (44.84%)
+- **Top Sales Channel (Revenue & Profit):** Store
+- **Customer Comparison:** Returning Customers generate more revenue (7,807,735) compared to New Customers (7,591,302).
+- **Branch with Highest Returning Customer Pct:** Alexandria (44.84%)
 
 ### Part 5: Returns & Delivery
-* **Overall Return Rate:** 4%
-* **Branch with Highest Return Rate:** Cairo (6.92%)
-* **Product with Highest Number of Returns:** Laptop (13 returns)
-* **Average Delivery Time:** 2 Days (Cairo leads with ~3 Days)
+- **Overall Return Rate:** 4%
+- **Branch with Highest Return Rate:** Cairo (6.92%)
+- **Product with Highest Number of Returns:** Laptop (13 returns)
+- **Average Delivery Time:** 2 Days (Cairo leads with ~3 Days)
 
 ---
 
