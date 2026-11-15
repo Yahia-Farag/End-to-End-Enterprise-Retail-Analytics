@@ -36,7 +36,7 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 - **Focus:** Financial health, operational insights, returns, and cost analysis.
 - **Key Metrics (KPI Cards):** `Total Returned`, `Return Rate %`, `Profit Margin %`, and `Total Discounts`.
 
-![NGI Internship Financial Analyst](./NGI-Retail-Profitability-Dashboard.png.png)
+![NGI Internship Financial Analyst](./NGI-Retail-Profitability-Dashboard.png)
 
 ---
 
