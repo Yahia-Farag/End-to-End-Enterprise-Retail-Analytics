@@ -28,7 +28,7 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 - **Focus:** Commercial performance, top-line revenue, and sales drivers.
 - **Key Metrics (KPI Cards):** `Total Revenue`, `Total Orders`, `Total Quantity`, `Total Costs`, and `Total Profit`.
 
-![NGI Internship Overview](./NGI-Internship-Overview.png)
+![NGI Internship Overview](./NGI-Retail-Sales-Dashboard.png)
 
 ---
 
@@ -36,7 +36,7 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 - **Focus:** Financial health, operational insights, returns, and cost analysis.
 - **Key Metrics (KPI Cards):** `Total Returned`, `Return Rate %`, `Profit Margin %`, and `Total Discounts`.
 
-![NGI Internship Financial Analyst](./NGI-Internship-Financial-Analyst%20.png)
+![NGI Internship Financial Analyst](./NGI-Retail-Profitability-Dashboard.png.png)
 
 ---
 
