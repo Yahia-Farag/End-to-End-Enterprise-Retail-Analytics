@@ -2,6 +2,10 @@
 
 > A comprehensive, corporate-grade two-page Power BI dashboard built as part of the **NGI Data Internship** (Ongoing). This project delivers deep commercial insights, revenue tracking, financial analysis, and operational metrics for retail store performance.
 
+## 🔗 Live Interactive Dashboard
+
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZjU0NDk4MjAtOGI0OC00Y2E0LTk1Y2YtY2RmNzBiM2VmYzIwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ---
 
 ## 📂 Repository Structure & Project Files
